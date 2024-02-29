@@ -1,2 +1,2 @@
-# Agenda-Django
-Projeto do curso de python
+# FastAPI
+Projeto do curso de FastAPI
